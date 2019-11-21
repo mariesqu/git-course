@@ -6,6 +6,7 @@
     <title>Git Course - Coding Phase</title>
 </head>
 <body>
-    <h1>First Page</h1>
+<h1>First Page</h1>
+<p>This is a great tutorial</p>
 </body>
 </html>
