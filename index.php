@@ -14,5 +14,6 @@
 </header>
 <h1>First Page</h1>
 <p>This is a great tutorial</p>
+<aside><img src="ad,jpg"></aside>
 </body>
 </html>
